@@ -28,3 +28,5 @@ print (data_final.describe())
 
 
 data_final.to_csv('C:\\Users\\Telmo\\Desktop\\Python\\Face\\Results\\data_final.csv')
+
+print ("adeus")
